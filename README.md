@@ -2,13 +2,13 @@
 
 ## Инфо
 
-Полозов Артем игоревич <br>
+Полозов Артем Игоревич <br>
 
 17-18.02 <br>
 
 9-11 потраченных часов. <br>
 
 ```js
-npm install && npm run dev
+npm install ; npm run dev
 ```
 
